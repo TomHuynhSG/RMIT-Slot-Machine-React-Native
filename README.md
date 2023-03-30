@@ -9,7 +9,7 @@
 
 ## 📖 Description
 
-- This is a simple React Native slot machine game 🎰 designed for a short 1-hour workshop at RMIT!
+This is a simple React Native slot machine game 🎰 designed for a short 1-hour workshop at RMIT!
 
 <table>
   <tr>
@@ -17,8 +17,8 @@
      <td>GIF Animation</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TomHuynhSG/RMIT-Slot-Machine-React-Native/blob/main/screenshots/rmit-slot-machine.png?raw=true" width="320"></td>
-    <td><img src="https://github.com/TomHuynhSG/RMIT-Slot-Machine-React-Native/blob/main/screenshots/rmit-slot-machine.gif?raw=true" width="320"></td>
+    <td><img src="https://github.com/TomHuynhSG/RMIT-Slot-Machine-React-Native/blob/main/screenshots/rmit-slot-machine.png?raw=true" width="370"></td>
+    <td><img src="https://github.com/TomHuynhSG/RMIT-Slot-Machine-React-Native/blob/main/screenshots/rmit-slot-machine.gif?raw=true" width="370"></td>
    </tr>
  </table>
 
