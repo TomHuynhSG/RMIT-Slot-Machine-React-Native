@@ -9,7 +9,8 @@
 
 ## 📖 Description
 
-This is a simple React Native slot machine game 🎰 designed for short 1-hour IT & Software Engineering workshops at RMIT SSET!
+- This is a simple React Native slot machine game 🎰 designed for short 1-hour IT & Software Engineering workshops at RMIT SSET!
+- Since this is a React Native app/game, so it can be deployed and run on Web, iOS and Android!
 
 <table>
   <tr>
