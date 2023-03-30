@@ -1,4 +1,4 @@
-# RMIT Slot Machine with React Native 🎰
+# RMIT Slot Machine with React Native 🎰🤯
 
 
 <p align="center">
@@ -21,6 +21,8 @@ This is a simple React Native slot machine game 🎰 designed for a short 1-hour
     <td><img src="https://github.com/TomHuynhSG/RMIT-Slot-Machine-React-Native/blob/main/screenshots/rmit-slot-machine.gif?raw=true" width="370"></td>
    </tr>
  </table>
+ 
+ The demo link is here: https://snack.expo.dev/@tomhuynhsg/rmit-slot-machine-workshop-demo 🚀
 
 ## 🔧 Build Information
 - React Native
