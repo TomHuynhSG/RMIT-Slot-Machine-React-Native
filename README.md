@@ -11,6 +11,7 @@
 
 - This is a simple React Native slot machine game 🎰 designed for short 1-hour IT & Software Engineering workshops of RMIT SSET!
 - Since this is a React Native app/game, so it can be deployed and run on Web, iOS and Android!
+- This game is designed to run the special workshop in RMIT Hanoi campus in the event of launching a new Software Engineering program in Hanoi for the first time on 09/04/2023! 🎉
 
 <table>
   <tr>
